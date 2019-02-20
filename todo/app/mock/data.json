@@ -1,0 +1,52 @@
+{
+    "defaultTodo": {
+        "name": "",
+        "startsAt": "",
+        "endsAt": "",
+        "venue": "",
+        "description": "",
+        "emails": ""
+    },
+    "defaultTodoList" : [
+        {
+            "name": "Abc",
+            "startsAt": "2019-02-12 4:00",
+            "endsAt": "2019-02-12 5:00",
+            "venue": "Parliament Hall",
+            "description": "Hello",
+            "emails": "katk.1989@gmail.com"
+        },
+        {
+            "name": "XyZ",
+            "startsAt": "2019-02-12 3:00",
+            "endsAt": "2019-02-12 4:00",
+            "venue": "ASDASDASD",
+            "description": "Helasda dasdlo",
+            "emails": "katk.1989@gmail.com"
+        },
+        {
+            "name": "PQR",
+            "startsAt": "2019-02-12 4:00",
+            "endsAt": "2019-02-12 5:00",
+            "venue": "Parliament Hall",
+            "description": "as das dasd",
+            "emails": "katk.1989@gmail.com"
+        },
+        {
+            "name": "DEF",
+            "startsAt": "2019-02-12 2:10",
+            "endsAt": "2019-02-12 3:00",
+            "venue": "Parliament Hall",
+            "description": "Hello",
+            "emails": "katk.1989@gmail.com"
+        },
+        {
+            "name": "ADSAS KAJSD",
+            "startsAt": "2019-02-12 4:00",
+            "endsAt": "2019-02-12 5:00",
+            "venue": "Parliament Hall",
+            "description": "Hello",
+            "emails": "katk.1989@gmail.com"
+        }
+    ]
+}
