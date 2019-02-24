@@ -4,9 +4,7 @@ import {FirstVisibleChildLayout} from "cx/ui";
 import AppLayout from "../layout";
 
 import Default from "./default";
-import About from "./about";
 import Appointments from "./appointments";
-import UserRoutes from "./users";
 
 export default () => <cx>
     <Sandbox
@@ -21,7 +19,6 @@ export default () => <cx>
         <Route route="~/appointments" url-bind="url">
             <Appointments/>
         </Route>
-        {/* <UserRoutes/> */}
         <Section title="Page Not Found" mod="card">
             This page doesn't exists. Please check your URL.
         </Section>
